@@ -14,7 +14,7 @@ Message box xuất hiện và hiển thị thông điệp: "After 1 year, we hav
 	"You wrote invalid characters." và kèm theo thông báo các ký tự nào là hợp lệ.
 
 **Chú thích:**  
-- giá trị nhập vào textbox có thể nhập chuỗi có chứa ký tự:
+- Giá trị nhập vào textbox có thể nhập chuỗi có chứa ký tự:
 	+ 0 -> 9
 	+ Khoảng trắng, vd: 100 000. Nếu chỉ nhập khoẳng trắng vào textbox thì xem như đó là số 0
 	+ Dấu '.' để ngăn cách phần thập phân hay chia ra từng phần đơn vị, chục, trăm, nghìn, ...
@@ -22,7 +22,7 @@ Message box xuất hiện và hiển thị thông điệp: "After 1 year, we hav
 		    100.000.000 thì chương trình xem đây là số nguyên có giá trị là 100 000 000 (một trăm triệu)
 		    100.000 thì chương trình xem đây là số nguyên có giá trị là 100 (một trăm)
 
-- giá trị kết quả trả về có thể có chứa ký tự:
+- Giá trị kết quả trả về có thể có chứa ký tự:
 	+ Dấu ',' để thể hiện sự chia ra từng phần đơn vị, chục, trăm, nghìn, ...
 		VD: 100,000 thì chương trình xem đây là số nguyên có giá trị là 100 000 (một trăm nghìn)
 	+ Dấu '.' để ngăn cách phần thập phân.
