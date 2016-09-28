@@ -1,5 +1,8 @@
 # Saving
-Tính số tiền có được sau 1 năm gửi
+Tính số tiền có được sau 1 năm gửi  
+- Nhập vào số tiền, ví dụ: 1.000.000
+- Nhập vào lãi suất 1 năm, ví dụ: 0.051
+- Tính toán và thông báo tổng tiền sẽ có sau 1 năm
 
 ## Main flow:
 Nhập vào textbox(*) Money số tiền hiện tại đang có, nhập vào textbox(*) Interest rate lãi suất trong 1 năm,
